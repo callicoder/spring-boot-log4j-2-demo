@@ -42,7 +42,8 @@
     </Appenders>
 
     <Loggers>
-        <AsyncLogger name="com.example.log4j2demo" level="debug">
+        <AsyncLogger name="com.example.log4j2demo" level="debug"
+                     additivity="false">
             <AppenderRef ref="ConsoleAppender" />
             <AppenderRef ref="FileAppender" />
         </AsyncLogger>
