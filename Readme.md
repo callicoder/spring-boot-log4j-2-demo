@@ -15,7 +15,7 @@ https://www.callicoder.com/spring-boot-log4j-2-example/
 **1. Clone the application**
 
 ```bash
-git clone git@github.com:callicoder/spring-boot-log4j-2-demo.git
+git clone https://github.com/callicoder/spring-boot-log4j-2-demo.git
 ```
 
 **2. Build and run the app using maven**
